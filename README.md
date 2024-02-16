@@ -1,7 +1,7 @@
 # Dot Game (Dots and Boxes)
 
 ## Overview
-Dot Game is a classical "Dots and Boxes" game implemented in C#.Net. Originally created in winter 2009, this project allows users to play the classic pen-and-paper game against the computer.
+Dot Game is a classical "Dots and Boxes" game implemented in VB.Net. Originally created in winter 2009, this project allows users to play the classic pen-and-paper game against the computer.
 
 ![Screenshot 1](screenshot.jpg)
 
